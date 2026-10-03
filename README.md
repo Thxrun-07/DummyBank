@@ -27,15 +27,6 @@ A modern, responsive, and secure banking authentication web application built wi
 
 ---
 
-## 🔑 Default Administrator Credentials
-
-| Field | Value |
-|---|---|
-| **Username** | `admin@123` |
-| **Password** | `Admin@123` |
-| **Role** | `Admin` (Full access: View Excel records & Download `.xlsx`) |
-
----
 
 ## 🚀 Getting Started
 
