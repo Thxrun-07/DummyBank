@@ -1,4 +1,4 @@
-# DummyBank - Banking & Login Portal with Excel (.xlsx) Storage
+# dummybank - Banking & Login Portal with Excel (.xlsx) Storage
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-thxrun--07%2FDummyBank-181717?logo=github)](https://github.com/thxrun-07/DummyBank)
 
